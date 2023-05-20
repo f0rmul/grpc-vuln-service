@@ -1,0 +1,15 @@
+
+grpc_server:
+  host: localhost
+  port: 5000
+  max_connection_idle: 5m
+  max_connection_age: 5m
+  timeout: 5s
+  time: 120m
+
+logger:
+  development: true
+  disable_caller: false
+  disable_stacktrace: false
+  encoding: json
+  level: info
