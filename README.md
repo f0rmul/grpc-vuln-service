@@ -1,5 +1,5 @@
 # grpc-vuln-service
-## Serice wrapper above nmap
+## Service wrapper above nmap
 
 
 
