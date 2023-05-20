@@ -23,6 +23,6 @@ make start
 ```
 
 ## TODO
-- Add cache for MRU caching most reqcently used targets
+- Add cache for MRU caching most recently used targets
 - Add timeout for scan request in .proto
 - Add fix ci errors (static check) for deprecated function in nmap package 
