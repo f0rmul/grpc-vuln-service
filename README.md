@@ -21,3 +21,8 @@ mv http-vulners-paths.txt  /usr/share/namp/nselib/data/
 ```sh
 make start
 ```
+
+## TODO
+- Add cache for MRU caching most reqcently used targets
+- Add timeout for scan request in .proto
+- Add fix ci errors (static check) for deprecated function in nmap package 
